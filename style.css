@@ -1,0 +1,16 @@
+.keyboard{
+    justify-content: ;
+    background: black;
+    text-align: center;
+    
+}
+.num{
+    background: black;
+}
+.butt{
+    background-color: rgb(63, 61, 61);
+    color: white;
+}
+section{
+    display: flex;
+}
